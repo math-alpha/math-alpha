@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <!-- -  **Fun fact :** -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Some Stats
+<!-- ### Some Stats
 [![Ngadou's github stats](https://github-readme-stats.vercel.app/api?username=math-alpha&show_icons=true&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-alpha&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-alpha&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Math-alpha
