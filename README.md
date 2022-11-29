@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ngadous?style=for-the-badge&logo=twitter&color=darkgrey) [![Linkedin Badge](https://img.shields.io/badge/Ngadou_Yopa-Connect-darkgrey?logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/ngadou-sylvestre/)
+![Twitter Follow](https://img.shields.io/twitter/follow/ngadouyopa?style=for-the-badge&logo=twitter&color=darkgrey) [![Linkedin Badge](https://img.shields.io/badge/Ngadou_Yopa-Connect-darkgrey?logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/ngadou-sylvestre/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
